@@ -14,10 +14,10 @@
 
 ## Resolution Steps
 
-- I would ask if the computer has been restarted
-- I would close all tabs and apps that were open to see if there is any improvement on speed
-- I would check to see if there are any new pending updates that are needed to be done 
-- I would restart the PC after/if any updates were done to see if that will fix the issue
+1. I would ask if the computer has been restarted
+2. I would close all tabs and apps that were open to see if there is any improvement on speed
+3. I would check to see if there are any new pending updates that are needed to be done 
+4. I would restart the PC after/if any updates were done to see if that will fix the issue
 
 ## Escalation
 
