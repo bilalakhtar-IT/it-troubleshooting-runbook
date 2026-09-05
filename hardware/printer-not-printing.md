@@ -25,6 +25,8 @@
 6. Clear print queue and print a test page
 7. Restart printer and retry to confirm
 
+**Guide:** [Fix printer connection and printing problems in Windows](https://support.microsoft.com/en-us/windows/hardware/printer/fix-printer-connection-and-printing-problems-in-windows)
+
 ## Escalation
 
 Escalate the issue if:
