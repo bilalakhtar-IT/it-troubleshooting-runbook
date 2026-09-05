@@ -27,6 +27,8 @@
     - Check "User must change password at next logon" if they want to create personal password
 4. Provide user with steps on how to create their own password following company security guidelines
 
+**Guide:** [Manage user accounts with Active Directory Users and Computers](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage-user-accounts-in-windows-server)
+
 ## Escalation
 
 Escalate the issue if:
