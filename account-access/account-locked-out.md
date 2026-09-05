@@ -27,6 +27,8 @@
     - Click Apply > OK
 4. Make user log in to make sure and confirm their access
 
+**Guide:** [Manage user accounts with Active Directory Users and Computers](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage-user-accounts-in-windows-server)
+
 ## Escalation
 
 - Escalate issue if account is constantly locking user out after unlocking account
