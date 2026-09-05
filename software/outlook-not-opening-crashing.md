@@ -23,6 +23,9 @@
     - Uncheck the add-ins you want to disable.
     - Click OK.
     - Close and reopen Outlook to check if the issue is resolved
+
+**Guide:** [Turn an add-in off for Outlook for Windows](https://support.microsoft.com/en-us/office/turn-an-add-in-off-for-outlook-for-windows-96737da4-ab7c-464e-9d2a-cf15db47c4cf)
+
 3. Create new Outlook profile and reconfigure users profile
     - Close Outlook completely.
     - Open Control Panel and search for Mail.
@@ -31,6 +34,9 @@
     - Enter the user's email/account information and complete the setup.
     - Select Always use this profile and choose the new profile.
     - Click Apply > OK, then open Outlook and test.
+
+**Guide:** [Create a profile in Outlook for Windows](https://support.microsoft.com/en-us/outlook/create-an-outlook-profile)
+
 4. Update Outlook
 
 ## Escalation
