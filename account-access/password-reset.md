@@ -1,4 +1,4 @@
-## User Account Password Reset
+# User Account Password Reset
 
 ## Symptoms
 
