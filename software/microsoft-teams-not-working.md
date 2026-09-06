@@ -1,4 +1,4 @@
-## Microsoft Teams Not Working
+# Microsoft Teams Not Working
 
 ## Symptoms
 
