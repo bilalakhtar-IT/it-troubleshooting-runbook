@@ -1,4 +1,4 @@
-## VPN Not Connecting
+# VPN Not Connecting
 
 ## Symptoms
 
