@@ -1,4 +1,4 @@
-## Printer Not Printing
+# Printer Not Printing
 
 ## Symptoms
 
