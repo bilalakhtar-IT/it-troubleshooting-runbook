@@ -30,7 +30,7 @@
 Escalate issue if:
 
 - User still unable to complete MFA sign in
-- MFS method needs to be reset
+- MFA method needs to be reset
 - Lost access to their device with MFA
 - Security concern within account
 - Need admin access
