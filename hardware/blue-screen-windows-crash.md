@@ -1,4 +1,4 @@
-## Blue Screen/Windows Crash
+# Blue Screen/Windows Crash
 
 ## Symptoms
 
