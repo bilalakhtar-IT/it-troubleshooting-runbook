@@ -24,7 +24,7 @@
     - Click OK.
     - Close and reopen Outlook to check if the issue is resolved
 
-**Guide:** [Turn an add-in off for Outlook for Windows](https://support.microsoft.com/en-us/office/turn-an-add-in-off-for-outlook-for-windows-96737da4-ab7c-464e-9d2a-cf15db47c4cf)
+**Guide:** [Turn an add-in off for Outlook for Windows](https://support.microsoft.com/en-us/outlook/turn-an-add-in-off-for-outlook-for-windows)
 
 3. Create new Outlook profile and reconfigure users profile
     - Close Outlook completely.
