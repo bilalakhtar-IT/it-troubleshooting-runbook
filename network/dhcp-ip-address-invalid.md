@@ -1,4 +1,4 @@
-## DHCP/IP Address Invalid
+# DHCP/IP Address Invalid
 
 ## Symptoms
 
