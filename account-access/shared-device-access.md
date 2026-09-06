@@ -25,7 +25,7 @@
 
 **Guide:** [Checking file/folder permissions in Windows](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/cannot-access-shared-folder-file-explorer)
 
-**Guide:** [Map a network drive in Windows](https://support.microsoft.com/en-us/windows/map-a-network-drive-in-windows-29ce55d1-34e3-a7e2-4801-131475f9557d)
+**Guide:** [Map a network drive in Windows](https://support.microsoft.com/en-us/windows/experience/connectivity-networking/file-sharing-over-a-network-in-windows#bkmk_map_network_drive)
 
 ## Escalation
 
