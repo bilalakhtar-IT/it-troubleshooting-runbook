@@ -1,4 +1,4 @@
-## Windows Update Failing/Errors
+# Windows Update Failing/Errors
 
 ## Symptoms
 
