@@ -17,7 +17,7 @@ Each of these folders groups a category of common Helpdesk issues. Every guide i
 
 17 guides total, and growing.
 
-## Each problem guide includes:
+## Each Problem Guide Includes
 
 - Common symptoms
 - Possible causes
