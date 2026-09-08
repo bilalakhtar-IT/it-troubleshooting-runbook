@@ -2,26 +2,27 @@
 
 ## Symptoms
 
-- User can't access shared drive or folder
-- User receiving an "Access Denied" message
-- Shared device is missing from File Explorer
-- User was able to access drive but no longer can
+- User can't access a shared drive or folder.
+- User receiving an "Access Denied" message.
+- Shared drive is missing from File Explorer.
+- User was able to access the drive but no longer can.
 
 ## Possible Causes
 
-- User doesn't have required permissions
-- Network connection may be unavailable
-- Shared drive isn't connected
-- User account or group membership may have changed
-- Shared drive is currently down
+- User doesn't have the required permissions.
+- Network connection may be unavailable.
+- Shared drive isn't connected.
+- User account or group membership may have changed.
+- Shared drive is currently unavailable.
 
 ## Resolution Steps
 
-1. Confirm if user has working network connection
-2. Confirm if shared drive or folder path is right
-3. Check if other users are able to access the same drive
-4. Check if permissions are needed in AD
-5. If permissions needed, reconnect the shared drive
+1. Confirm the user has a working network connection.
+2. Confirm the shared drive or folder path is correct.
+3. Check if other users are able to access the same drive.
+4. Check if the user has the required permissions.
+5. If the user has the required permissions, reconnect the shared drive.
+6. Have the user access the drive again to confirm it is working.
 
 **Guide:** [Checking file/folder permissions in Windows](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/cannot-access-shared-folder-file-explorer)
 
@@ -31,6 +32,7 @@
 
 Escalate issue if:
 
-- User still receiving an "Access Denied" message
-- Shared device showing up as unavailble
-- Permission changes or admin access is needed
+- User is still receiving an "Access Denied" message.
+- Shared drive is showing as unavailable.
+- Permission changes or admin access are needed.
+- Multiple users are unable to access the same shared drive.
