@@ -2,32 +2,33 @@
 
 ## Symptoms
 
-- User connected to internet but unable to access websites
-- Receiving DNS error
-- Some websites are working and some are not
-- Apps. and services unable to connect
+- User connected to the internet but unable to access websites.
+- Receiving a DNS error.
+- Some websites are working while others are not.
+- Apps and services are unable to connect.
 
 ## Possible Causes
 
-- DNS server isn't responding
-- DNS cache may need to be flushed
-- Network connection problem
-- DNS settings are configured incorrectly
+- DNS server isn't responding.
+- DNS cache may need to be flushed.
+- Network connection problem.
+- DNS settings are configured incorrectly.
 
 ## Resolution Steps
 
-1. Confirm computer has proper network connection
-2. Test on different websites to see if issue is affecting several websites
-3. Restart computer and test connection
-4. Flush DNS
-    - ipconfig /flushdns
-5. Check DNS settings
+1. Confirm the computer has a proper network connection.
+2. Test different websites to see if the issue is affecting several websites.
+3. Restart the computer and test the connection again.
+4. Open Command Prompt and flush the DNS cache:
+   - `ipconfig /flushdns`
+5. Use `nslookup` to check if a domain name can be resolved to an IP address.
+6. Check the computer's DNS settings to make sure they are configured correctly.
 
 ## Escalation
 
 Escalate issue if:
 
-- DNS still facing issues after troubleshooting
-- If DNS servers are not available
-- Multiple users are facing same problem
-- If any access is needed to be granted to user
+- DNS is still not working after troubleshooting.
+- DNS servers are unavailable.
+- Multiple users are facing the same problem.
+- Network or admin access is needed.
