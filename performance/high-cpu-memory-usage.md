@@ -2,26 +2,26 @@
 
 ## Symptoms
 
-- Computer is running slowly
-- Apps. and websites taking forever to load
-- Task manager showing high CPU or memory usage
-- Computer freezes up or becomes unresponsive
+- Computer is running slowly.
+- Apps and websites are taking a long time to load.
+- Task Manager is showing high CPU or memory usage.
+- Computer freezes or becomes unresponsive.
 
 ## Possible Causes
 
-- Multiple apps. running
-- Background programs using system resources
-- Too many startup programs
-- Apps. using excessive resources
-- Computer needs to be restarted
+- Multiple apps are running.
+- Background programs are using system resources.
+- Too many startup programs.
+- An app or process is using excessive resources.
+- Computer needs to be restarted.
 
 ## Resolution Steps
 
-1. Open Task Manager and check CPU and memory usage
-2. Look for apps. or processes using unsual amount of resources
-3. Close out all unnecessary apps.
-4. Restart and open Task Manager and check resources
-5. Disable all unnecessary startup apps.
+1. Open Task Manager and check CPU and memory usage.
+2. Look for apps or processes using an unusual amount of resources.
+3. Close any unnecessary apps.
+4. Restart the computer and check CPU and memory usage again.
+5. Check startup apps and disable any unnecessary ones.
 
 **Guide:** [Troubleshoot processes by using Task Manager](https://learn.microsoft.com/en-us/troubleshoot/windows-server/support-tools/support-tools-task-manager)
 
@@ -29,7 +29,7 @@
 
 Escalate issue if:
 
-- CPU or memory usage is still unusually high
-- Specific app. is using excessive resources consistently
-- Computer continues to be freezing up or unresponsive
-- In need of hardware upgrade or advanced troubleshooting
+- CPU or memory usage is still unusually high.
+- A specific app or process is consistently using excessive resources.
+- Computer continues to freeze or become unresponsive.
+- A hardware upgrade or advanced troubleshooting may be needed.
