@@ -17,6 +17,14 @@ Each of these folders groups a category of common Helpdesk issues. Every guide i
 
 17 guides total, and growing.
 
+## Start Here
+
+A few guides that show the format in depth:
+
+- [VPN Not Connecting](network/vpn-not-connecting.md)
+- [User Account Locked Out](account-access/account-locked-out.md)
+- [Blue Screen/Windows Crash](windows/blue-screen-windows-crash.md)
+
 ## Each Problem Guide Includes
 
 - Common symptoms
