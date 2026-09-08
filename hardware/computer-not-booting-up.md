@@ -2,29 +2,28 @@
 
 ## Symptoms
 
-- User reported that computer won't turn on when pressing/holding power on button
-- Monitor is not displaying startup screen
-- Power light is not on or blinking
-- User reported device all of a sudden stopped working
+- User reported that the computer won't turn on when pressing the power button.
+- Monitor is not displaying the startup screen.
+- Power light is not on or blinking.
+- User reported the device suddenly stopped working.
 
 ## Possible Causes
 
-- Power cable or adapter may be faulty 
-- Battery is possibly dead
-- Outlet or docking station could be faulty
-- Issue with motherboard or power supply
+- Power cable or adapter may be faulty.
+- Battery is possibly dead.
+- Outlet or docking station could be faulty.
+- Issue with motherboard or power supply.
 
 ## Resolution Steps
 
-1. Check if cable is securely plugged in
-2. Check power cable, adapter, and outlet
-3. Test power with spare cable
-4. Disconnect all cables and full reset the device
-5. Power again and check for any error message or lights
+1. Check if the power cable is securely plugged in.
+2. Check the power cable, adapter, and outlet for any issues.
+3. Test the device with a spare power cable or adapter if available.
+4. Disconnect all cables and perform a full power reset on the device.
+5. Power on the device again and check for any error messages or lights.
 
 ## Escalation
 
-- Escalate issue if device is still not powering on
-- Escalate if any signs of physical damage or overheating
-- Ticket needs to be escalated if any failure in power supply, battery, or motherboard
-- Before escalating document all findings for next technician
+- Device is still not powering on.
+- There are any signs of physical damage or overheating.
+- There may be a failure with the power supply, battery, or motherboard.
