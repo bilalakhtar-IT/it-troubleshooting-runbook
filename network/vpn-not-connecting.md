@@ -2,28 +2,28 @@
 
 ## Symptoms
 
-- User unable to connect to company VPN
-- VPN connection failing or diconnecting
-- Receiving connection error
-- User unable to access resources
+- User unable to connect to company VPN.
+- VPN connection failing or disconnecting.
+- Receiving a connection error.
+- User unable to access company resources.
 
 ## Possible Causes
 
-- Internet connection is unavailable or unstable
-- VPN is not running correctly
-- VPN Service may be down
-- VPN software needs update
-- Firewall blocking connection
+- Internet connection is unavailable or unstable.
+- VPN is not running correctly.
+- VPN service may be down.
+- VPN software may need an update.
+- Firewall may be blocking the connection.
 
 ## Resolution Steps
 
-1. Confirm user is connected to internet
-2. Check if VPN client is installed and running
-3. Check login credentials to see if they are correct
-4. Disconnect and reconnect VPN
-5. Restart VPN app.
-6. Check status of VPN if down
-7. Confirm user is able to connect and use company resources
+1. Confirm the user is connected to the internet.
+2. Check if the VPN client is installed and running.
+3. Check login credentials to make sure they are correct.
+4. Disconnect and reconnect the VPN.
+5. Restart the VPN app.
+6. Check the status of the VPN service to see if it is down.
+7. Confirm the user is able to connect and access company resources.
 
 **Guide:** [Connect to a VPN in Windows](https://support.microsoft.com/en-us/windows/experience/connectivity-networking/connect-to-a-vpn-in-windows)
 
@@ -31,7 +31,7 @@
 
 Escalate issue if:
 
-- VPN still not connecting after troubleshooting
-- Multiple users experiencing same issue
-- VPN service is unavailable
-- In need of network or admin access
+- VPN is still not connecting after troubleshooting.
+- Multiple users are experiencing the same issue.
+- VPN service is unavailable.
+- Network or admin access is needed.
